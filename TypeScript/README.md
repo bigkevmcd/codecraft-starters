@@ -1,5 +1,10 @@
-# modelling
+# TypeScript starter project
 
-Domain Modelling Made Functional in TypeScript.
+This is a simple project for getting started coding with TypeScript.
 
-https://pragprog.com/titles/swdddf/domain-modeling-made-functional/
+Run the tests with `yarn`, this will watch for changes in your code and rerun
+the tests.
+
+```console
+yarn test
+```
